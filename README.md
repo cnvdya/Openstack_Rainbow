@@ -4,13 +4,13 @@
 
 
     This product implements creating, launching & monitoring of Virtual Machines using OpenStack and its provided APIs.
-    It helps in creating virtual machines using pre-configured flavors for servers,
-    which in turn launches pre-configured web-server and database servers.
-    It also calculates and exposes the pricing of the various servers running based on the amount of time they have run.
-    The monitoring tool gives an overview of the number of instances launched and usage based on
+    It helps in creating virtual machines using pre-configured flavors for servers and launches pre-configured web-servers and database     servers.
+    The 'Hubot' bot has been implemented and integrated with Slack which enables monitoring and management of the instances. 
+    The dashboard also has Billing and Monitoring feature to provide an overview of the number of instances launched and usage based on
     ● number of vCPUs
     ● RAM
     ● Storage.
+    
     
 ## To run the project on local
 
@@ -41,6 +41,9 @@
     
    ![alt text](screenshot/Dashboard.jpeg "this is dashboard page")
     
+## Slack and Hubot Integration
+    
+   ![alt text](screenshot/Lego-OpenstackRainbow.png "Slack and Hubot Integration")
     
 ##  Billing Page
     
